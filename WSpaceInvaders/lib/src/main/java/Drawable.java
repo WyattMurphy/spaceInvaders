@@ -28,7 +28,7 @@ public abstract class Drawable {
 	// constructor
 	public Drawable(int x, int y) {
 		this.x = x;
-		this.y = y;
+		this.y = y;				
 	}
 	
 	// field getters
